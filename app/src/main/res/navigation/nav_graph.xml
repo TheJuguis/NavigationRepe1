@@ -23,4 +23,14 @@
             app:argType="string"
             android:defaultValue="aaaa" />
     </fragment>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.navigationrepe.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/setingsFragment"
+        android:name="com.example.navigationrepe.setingsFragment"
+        android:label="fragment_setings"
+        tools:layout="@layout/fragment_setings" />
 </navigation>

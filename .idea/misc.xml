@@ -3,9 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/h1s0t/AndroidStudioProjects/NavigationRepe/app/src/main/res/drawable/home_icon.xml" value="0.1365" />
+        <entry key="..\:/Users/h1s0t/AndroidStudioProjects/NavigationRepe/app/src/main/res/drawable/profile_icon.xml" value="0.1365" />
+        <entry key="..\:/Users/h1s0t/AndroidStudioProjects/NavigationRepe/app/src/main/res/drawable/settings_icon.xml" value="0.1365" />
         <entry key="..\:/Users/h1s0t/AndroidStudioProjects/NavigationRepe/app/src/main/res/layout/activity_main.xml" value="0.5841584158415841" />
         <entry key="..\:/Users/h1s0t/AndroidStudioProjects/NavigationRepe/app/src/main/res/layout/fragment_home.xml" value="0.5" />
         <entry key="..\:/Users/h1s0t/AndroidStudioProjects/NavigationRepe/app/src/main/res/layout/fragment_inside_home.xml" value="0.371875" />
+        <entry key="..\:/Users/h1s0t/AndroidStudioProjects/NavigationRepe/app/src/main/res/layout/fragment_profile.xml" value="0.1875" />
+        <entry key="..\:/Users/h1s0t/AndroidStudioProjects/NavigationRepe/app/src/main/res/layout/fragment_setings.xml" value="0.1875" />
+        <entry key="..\:/Users/h1s0t/AndroidStudioProjects/NavigationRepe/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1875" />
       </map>
     </option>
   </component>
