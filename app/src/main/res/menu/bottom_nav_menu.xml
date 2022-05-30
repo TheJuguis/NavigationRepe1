@@ -6,15 +6,16 @@
         android:title="Profile"
         android:icon="@drawable/profile_icon"
 
+
         />
     <item
-        android:id="@+id/HomeFragment"
+        android:id="@+id/homeFragment"
         android:title="Home"
         android:icon="@drawable/home_icon"
 
         />
     <item
-        android:id="@+id/SetingsFragment"
+        android:id="@+id/setingsFragment"
         android:title="Settings"
         android:icon="@drawable/settings_icon"
 
